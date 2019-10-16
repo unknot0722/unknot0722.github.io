@@ -50,7 +50,7 @@ You must fill some informations on `_config.yml` to customize your site.
 
 ```
 name: UNKNOT
-bio: '지금 내가 가진 네트워크에 충실하기 원하는 청년'
+bio: '지금  네트워크에 충실하기 원하는 청년'
 picture: 'assets/images/profile.jpg'
 ...
 
