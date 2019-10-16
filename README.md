@@ -49,8 +49,8 @@ If you want to test locally on your machine, do the following steps also:
 You must fill some informations on `_config.yml` to customize your site.
 
 ```
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: UNKNOT
+bio: '지금 내가 가진 네트워크에 충실하기 원하는 청년'
 picture: 'assets/images/profile.jpg'
 ...
 
